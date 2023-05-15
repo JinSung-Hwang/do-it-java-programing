@@ -1,2 +1,4 @@
 rootProject.name = 'do-it-java-programing'
+include 'src:main:untitled'
+findProject(':src:main:untitled')?.name = 'untitled'
 
