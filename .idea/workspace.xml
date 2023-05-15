@@ -5,17 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ce060ab-4b95-488a-b7d7-c1646e0c08f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch09/ConstantTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch10/TypeConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch11/OperatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/ShortCircuitEvaluation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch13/ConditionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch14/BitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/IfElseIfTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15/IfElseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch16/SwichCaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch16/SwichCaseTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch17/DowhileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch17/ForTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch17/whileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch18/NestedLoopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch19/BreakTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch19/ContinueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,25 +84,30 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+    "settings.editor.selected.configurable": "configurable.group.editor"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ch19" />
+      <recent name="ch17" />
+      <recent name="ch16" />
+      <recent name="ch15" />
       <recent name="ch08" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BooleanTest">
-    <configuration name="BooleanTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch08.BooleanTest" />
+  <component name="RunManager" selected="Application.ContinueTest">
+    <configuration name="BreakTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch19.BreakTest" />
       <module name="do-it-java-programing.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch08.*" />
+          <option name="PATTERN" value="ch19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CharacterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch07.CharacterTest" />
+    <configuration name="ContinueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch19.ContinueTest" />
       <module name="do-it-java-programing.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch07.*" />
+          <option name="PATTERN" value="ch19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoubleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch06.DoubleTest" />
+    <configuration name="DowhileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch17.DowhileTest" />
       <module name="do-it-java-programing.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch06.*" />
+          <option name="PATTERN" value="ch17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntVarialbeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch05.IntVarialbeTest" />
+    <configuration name="NestedLoopTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch18.NestedLoopTest" />
       <module name="do-it-java-programing.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch05.*" />
+          <option name="PATTERN" value="ch18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch04.VariableTest" />
+    <configuration name="whileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch17.whileTest" />
       <module name="do-it-java-programing.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch04.*" />
+          <option name="PATTERN" value="ch17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BooleanTest" />
-        <item itemvalue="Application.CharacterTest" />
-        <item itemvalue="Application.DoubleTest" />
-        <item itemvalue="Application.IntVarialbeTest" />
-        <item itemvalue="Application.VariableTest" />
+        <item itemvalue="Application.ContinueTest" />
+        <item itemvalue="Application.BreakTest" />
+        <item itemvalue="Application.NestedLoopTest" />
+        <item itemvalue="Application.DowhileTest" />
+        <item itemvalue="Application.whileTest" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +186,7 @@
       <option name="presentableId" value="Default" />
       <updated>1684067069156</updated>
       <workItem from="1684067072477" duration="709000" />
-      <workItem from="1684067827101" duration="5003000" />
+      <workItem from="1684067827101" duration="13593000" />
     </task>
     <servers />
   </component>
