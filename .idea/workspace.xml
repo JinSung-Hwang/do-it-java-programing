@@ -5,33 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ce060ab-4b95-488a-b7d7-c1646e0c08f0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/ch03/FunctionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/ch04/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/ch04/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/ch08/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/ch08/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/ch08/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/ch09/BirthDay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/ch09/BirthDayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/ch11/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/ch13/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/ch13/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/ch13/Subway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/ch13/TakeTransTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/ch14/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/ch14/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/ch16/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/ch16/SchoolTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/ch17/ArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/ch18/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/ch18/ObjectArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/ch18/ObjectCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/ch18/ObjectDeepCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/ch19/TwoDimensionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/ch20/ArrayListTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch01/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter1/ch01/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch03/BinaryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter1/ch03/BinaryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch04/VariableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter1/ch04/VariableTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch05/IntVarialbeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter1/ch05/IntVarialbeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch06/DoubleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter1/ch06/DoubleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch07/CharacterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter1/ch07/CharacterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch08/BooleanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter1/ch08/BooleanTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch08/LocalVariableType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter1/ch08/LocalVariableType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch09/ConstantTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter1/ch09/ConstantTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch10/TypeConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter1/ch10/TypeConversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch11/OperatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter1/ch11/OperatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch12/ShortCircuitEvaluation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter1/ch12/ShortCircuitEvaluation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch13/ConditionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter1/ch13/ConditionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch14/BitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter1/ch14/BitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch15/IfElseIfTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter1/ch15/IfElseIfTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch15/IfElseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter1/ch15/IfElseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch16/SwichCaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter1/ch16/SwichCaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch16/SwichCaseTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter1/ch16/SwichCaseTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch17/DowhileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter1/ch17/DowhileTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch17/ForTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter1/ch17/ForTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch17/whileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter1/ch17/whileTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch18/NestedLoopTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter1/ch18/NestedLoopTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch19/BreakTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter1/ch19/BreakTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch19/ContinueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter1/ch19/ContinueTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +97,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "configurable.group.editor"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -114,13 +112,13 @@
       <recent name="ch08" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HelloWorld">
-    <configuration name="BreakTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch19.BreakTest" />
+  <component name="RunManager" selected="Application.TwoDimensionTest">
+    <configuration name="ArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3.ch17.ArrayTest" />
       <module name="do-it-java-programing.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch19.*" />
+          <option name="PATTERN" value="chapter3.ch17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContinueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch19.ContinueTest" />
+    <configuration name="ObjectArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3.ch18.ObjectArrayTest" />
       <module name="do-it-java-programing.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch19.*" />
+          <option name="PATTERN" value="chapter3.ch18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DowhileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch17.DowhileTest" />
+    <configuration name="ObjectCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3.ch18.ObjectCopy" />
       <module name="do-it-java-programing.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch17.*" />
+          <option name="PATTERN" value="chapter3.ch18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1.ch01.HelloWorld" />
+    <configuration name="ObjectDeepCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3.ch18.ObjectDeepCopy" />
       <module name="do-it-java-programing.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter1.ch01.*" />
+          <option name="PATTERN" value="chapter3.ch18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedLoopTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch18.NestedLoopTest" />
+    <configuration name="TwoDimensionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3.ch19.TwoDimensionTest" />
       <module name="do-it-java-programing.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch18.*" />
+          <option name="PATTERN" value="chapter3.ch19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Application.ContinueTest" />
-        <item itemvalue="Application.BreakTest" />
-        <item itemvalue="Application.NestedLoopTest" />
-        <item itemvalue="Application.DowhileTest" />
+        <item itemvalue="Application.TwoDimensionTest" />
+        <item itemvalue="Application.ObjectDeepCopy" />
+        <item itemvalue="Application.ObjectCopy" />
+        <item itemvalue="Application.ObjectArrayTest" />
+        <item itemvalue="Application.ArrayTest" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +197,7 @@
       <option name="presentableId" value="Default" />
       <updated>1684067069156</updated>
       <workItem from="1684067072477" duration="709000" />
-      <workItem from="1684067827101" duration="15678000" />
+      <workItem from="1684067827101" duration="33830000" />
     </task>
     <servers />
   </component>
