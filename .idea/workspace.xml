@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ce060ab-4b95-488a-b7d7-c1646e0c08f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/ch04/MyArrayStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/ch04/MyStackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/ch05/MyListQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/ch05/MyListQueueTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,7 +114,7 @@
       <recent name="ch17" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyStackTest">
+  <component name="RunManager" selected="Application.MyListQueueTest">
     <configuration name="BookShelfTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter5.ch16.BookShelfTest" />
       <module name="do-it-java-programing.main" />
@@ -154,6 +154,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyListQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.ch05.MyListQueueTest" />
+      <module name="do-it-java-programing.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.ch05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MyStackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter2.ch04.MyStackTest" />
       <module name="do-it-java-programing.main" />
@@ -167,26 +180,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chapter5.ch14.CalculatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter5.ch14.CalculatorTest" />
-      <module name="do-it-java-programing.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter5.ch14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyListQueueTest" />
         <item itemvalue="Application.MyStackTest" />
         <item itemvalue="Application.MyLinkedListTest" />
         <item itemvalue="Application.BookShelfTest" />
         <item itemvalue="Application.CustomerTest" />
-        <item itemvalue="Application.chapter5.ch14.CalculatorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +201,8 @@
       <workItem from="1684067072477" duration="709000" />
       <workItem from="1684067827101" duration="53013000" />
       <workItem from="1688303407463" duration="2840000" />
-      <workItem from="1688335666176" duration="938000" />
+      <workItem from="1688335666176" duration="2672000" />
+      <workItem from="1688421869706" duration="1656000" />
     </task>
     <servers />
   </component>
