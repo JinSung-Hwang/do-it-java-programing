@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ce060ab-4b95-488a-b7d7-c1646e0c08f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/ch05/MyListQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/ch05/MyListQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7/ch05/GenericPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7/ch05/GenericPrinterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7/ch05/Plastic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7/ch05/Powder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,14 +109,14 @@
       <recent name="chapter5.ch01" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chapter7.ch05" />
       <recent name="chapter5.ch13.domain.userInfo.dao.mysql" />
       <recent name="chapter5.ch08" />
       <recent name="chapter5.ch06" />
       <recent name="ch19" />
-      <recent name="ch17" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyListQueueTest">
+  <component name="RunManager" selected="Application.GenericPrinterTest">
     <configuration name="BookShelfTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter5.ch16.BookShelfTest" />
       <module name="do-it-java-programing.main" />
@@ -128,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter5.ch15.CustomerTest" />
+    <configuration name="GenericPrinterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7.ch05.GenericPrinterTest" />
       <module name="do-it-java-programing.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter5.ch15.*" />
+          <option name="PATTERN" value="chapter7.ch05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenericPrinterTest" />
         <item itemvalue="Application.MyListQueueTest" />
         <item itemvalue="Application.MyStackTest" />
         <item itemvalue="Application.MyLinkedListTest" />
         <item itemvalue="Application.BookShelfTest" />
-        <item itemvalue="Application.CustomerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +204,8 @@
       <workItem from="1684067827101" duration="53013000" />
       <workItem from="1688303407463" duration="2840000" />
       <workItem from="1688335666176" duration="2672000" />
-      <workItem from="1688421869706" duration="1656000" />
+      <workItem from="1688421869706" duration="2314000" />
+      <workItem from="1688509280120" duration="995000" />
     </task>
     <servers />
   </component>
