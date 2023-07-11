@@ -23,6 +23,8 @@ public class MemberArrayListTest {
     System.out.println("------------------------------");
     memberArrayList.showAllMembers();
 
+    memberArrayList.removeMember(1005);
+
 //    ArrayList<Member> arrayList = new ArrayList<>();
 //    arrayList.add(memberLee);
 //    arrayList.add(memberKim);
